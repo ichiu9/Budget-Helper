@@ -5,4 +5,4 @@ Requires Xampp web server to run.
 
 Screenshot of Homepage:
 
-<img src=https://github.com/ichiu9/Budget-Helper/blob/master/Budget_Homepage.png width=100%>
+<img src=https://github.com/ichiu9/Budget-Helper/blob/master/Budget_Hompeage.png width=100%>
